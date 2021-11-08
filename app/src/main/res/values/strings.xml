@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Covid-19 Stats</string>
+    <string name="dec_title_spash">Be aware\nStay healthy</string>
+    <string name="dec_title_spash_welcome">Welcome to COVID-19 information portal.</string>
+    <string name="title_get_started">GET STARTED</string>
+    <string name="title_null">null</string>
+    <string name="dec_title_home">Know safety tips and\nprecautions from\ntop Doctors.</string>
+</resources>
